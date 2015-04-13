@@ -7,3 +7,7 @@
   * Spring Data JPA 			(1.5.0.RELEASE)
   * Spring Data Rest Webmvc		(2.0.0.RELEASE)
   * Spring Security 			(3.2.0.RELEASE)
+  
+##Source
+
+  * http://java.dzone.com/articles/exporting-spring-data-jpa
